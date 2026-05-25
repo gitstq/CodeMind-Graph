@@ -1,0 +1,11 @@
+# CodeMind-Graph 依赖文件
+# 核心功能完全基于Python标准库，无需额外依赖
+
+# 可选依赖（用于开发）
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=22.0.0
+# flake8>=5.0.0
+
+# 可选依赖（用于导出PNG/SVG，需要系统安装graphviz）
+# graphviz  # 系统包: apt-get install graphviz 或 brew install graphviz
